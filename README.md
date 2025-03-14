@@ -6,5 +6,5 @@
  AIGDP will help users identify key areas for intervention, make data-driven decisions, improve effectiveness and ultimately build trust among stakeholders by making our operations and decisions clear and placing them in context.
 
 <p align="center">
-  <img src="[https://github.com/worldbank/GEEST/blob/main/docs/images/new%20images/framework.png](https://www.worldbank.org/ext/en/home)?raw=true" height=600 alt="WBG Logo" style="border-radius:10px;">
+  <img src="https://github.com/worldbank/r2p2/blob/main/docs/images/WBG_Logo.svg?raw=true" height=600 alt="WBG Logo" style="border-radius:10px;">
 </p>
